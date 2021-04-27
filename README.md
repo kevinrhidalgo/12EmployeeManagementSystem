@@ -4,7 +4,7 @@ c# MySQL:Employee Tracker
 To architect and build a solution for  managing a company's employees using node, inquirer, and MySQL, with a DBeaver database.
 
 ## Tracker Mock-Up
-<img width="1208" alt="Screen Shot 2021-04-27 at 12 50 09 PM" src="https://user-images.githubusercontent.com/78196245/116302745-905aa480-a76f-11eb-99e2-490063963741.png">
+
 
 
   ## Table of Contents 
