@@ -2,6 +2,9 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Description 
 To architect and build a solution for  managing a company's employees using node, inquirer, and MySQL, with a DBeaver database.
+
+## Tracker Mock-Up
+
   ## Table of Contents 
 
   * [Installation](#installation)
