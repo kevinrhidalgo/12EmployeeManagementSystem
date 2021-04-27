@@ -5,6 +5,9 @@ To architect and build a solution for  managing a company's employees using node
 
 ## Tracker Mock-Up
 
+<img width="1222" alt="Screen Shot 2021-04-27 at 12 51 02 PM" src="https://user-images.githubusercontent.com/78196245/116302898-bb44f880-a76f-11eb-8449-257d74605d10.png">
+
+
 
 
   ## Table of Contents 
